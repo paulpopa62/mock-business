@@ -20,3 +20,10 @@ body  {
   height: 400px;
   background-color: #f44336;
 }
+
+#widgets-banner {
+  width: 30%;
+  height: 100%;
+  background-color: white;
+  float: right;
+}
